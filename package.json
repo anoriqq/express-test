@@ -24,7 +24,7 @@
     "pg": "7.18.2",
     "pg-hstore": "2.3.3",
     "pug": "2.0.4",
-    "sequelize": "5.21.6",
+    "sequelize": "5.21.7",
     "tabulator-tables": "4.6.2"
   },
   "devDependencies": {
